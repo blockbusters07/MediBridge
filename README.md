@@ -13,6 +13,8 @@ The idea of this project is to develop a cutting-edge supply chain management sy
 
 # Demo 
 
+https://github.com/blockbusters07/MediBridge/assets/141605147/172e73cf-2671-4ccd-911b-95ea4763bd23
+
 
 ## Goal 🚀
 
