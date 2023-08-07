@@ -1,5 +1,12 @@
 # MediBridge
 
+# Names of the Contributers
+- Shreeya Desai :Last year Entc student A perseverant and diligent engineering student offering a solid foundation in programming principles across multiple platforms. I quickly learn new technologies and work well in both team and self-directed settings. 
+- Skills: Web Development, C++ ,SQL
+- Sakshi Retharekar :Last year Entc Student  I'm an active learner and always willing to grab new opportunities. I am always passionate to learn something new. . Open minded person who believes in the value of Technology & teamwork.
+- Skills: Web Development , Java , SQL
+- Vaishnavi Mane: Programming Enthusiast with deep knowledge in machine learning.
+- Skills: Java, Web Development , Python
 ## Idea of the project
 
 The idea of this project is to develop a cutting-edge supply chain management system for the pharmaceutical industry using blockchain technology, Solidity, and React. The system aims to address critical challenges faced by the pharmaceutical supply chain, such as product traceability, counterfeit prevention, transparency, and efficiency. 
