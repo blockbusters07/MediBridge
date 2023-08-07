@@ -23,7 +23,6 @@ The objective of this project is to develop a secure and transparent supply chai
 
 # System Architecure
 
-![ARCHITECTURE DIAGRAM](https://github.com/SakshiRetharekar/Supply-chain-management-in-pharma-industries/assets/96517049/d7df567e-d651-4dba-bbca-ccd0af92b930)
 
 
 
