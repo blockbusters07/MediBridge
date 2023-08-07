@@ -45,7 +45,7 @@ chain.
    - Select the network
    - Enter the details of your ganache workspace such as RPC URL and chain id as 1337 and currency symbol as eth.
 
-   
+   ![Picture3](https://github.com/blockbusters07/MediBridge/assets/141605147/efaa657e-1a94-4ae6-8e68-78c4237a2a19)
 
 
 -	Run `truffle migrate --reset` from the command line to deploy the smart contract to the blockchain.
