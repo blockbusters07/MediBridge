@@ -13,9 +13,7 @@ The idea of this project is to develop a cutting-edge supply chain management sy
 
 # Demo 
 
-https://github.com/blockbusters07/MediBridge/assets/141605147/172e73cf-2671-4ccd-911b-95ea4763bd23
-
-
+[![Demo](https://drive.google.com/file/d/124SVjoCxHsWDHxkwEQQni8FYz9KNlKCv/view?usp=sharing)]
 ## Goal 🚀
 
 The objective of this project is to develop a secure and transparent supply chain management system for the pharmaceutical industry using blockchain technology. The system should enable real-time tracking, traceability, and verification of pharmaceutical products at every stage of the supply chain, from supplier to customer, to ensure product authenticity and safety.
