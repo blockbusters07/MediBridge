@@ -32,8 +32,10 @@ chain.
 ## To deploy the Smart Contract
 - Install Truffle npm package globally by running `npm install -g truffle`.
 -	Install Ganache and create a workspace.
-  # Workspace creation
+  
+ # Workspace creation
   ![Screenshot (434)](https://github.com/blockbusters07/MediBridge/assets/141605147/857c2219-ef2a-4154-89f3-df38a982e9c0)
+
 -	Run `truffle migrate --reset` from the command line to deploy the smart contract to the blockchain.
 -	Download Metamask Chrome extension for the browser to help interaction between the application and the blockchain.
 
