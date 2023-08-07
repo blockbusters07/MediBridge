@@ -6,11 +6,11 @@ The idea of this project is to develop a cutting-edge supply chain management sy
 
 
 
-## Goal
+## Goal 🚀
 
 The objective of this project is to develop a secure and transparent supply chain management system for the pharmaceutical industry using blockchain technology. The system should enable real-time tracking, traceability, and verification of pharmaceutical products at every stage of the supply chain, from supplier to customer, to ensure product authenticity and safety.
 
-## Our Solution
+## Our Solution 💡
 
 -	Smart Contracts: Develop individual smart contracts for each entity in the supply chain (supplier, manufacturer, etc.). These contracts will facilitate secure transactions, ownership transfers, and product information storage on the blockchain.
 - Transparent Tracking: Utilize smart contracts to record product movements and key events throughout the supply chain, ensuring end-to-end traceability.
@@ -21,7 +21,7 @@ The objective of this project is to develop a secure and transparent supply chai
 -	Testing and Deployment: Conduct rigorous testing on Remix IDE, compile the smart contracts, and deploy them on a local blockchain using Ganache and Truffle.
 -	User Experience: Focus on providing a user-friendly and intuitive interface to enhance stakeholders' experience in interacting with the supply chain management system.
 
-# System Architecure
+# System Architecure 💻
 
 ![ARCHITECTURE DIAGRAM](https://github.com/blockbusters07/MediBridge/assets/141605147/54e5bb92-f9ce-4ce9-ad04-c0a6397a7033)
 
