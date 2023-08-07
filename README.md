@@ -23,6 +23,8 @@ The objective of this project is to develop a secure and transparent supply chai
 
 # System Architecure
 
+![ARCHITECTURE DIAGRAM](https://github.com/blockbusters07/MediBridge/assets/141605147/54e5bb92-f9ce-4ce9-ad04-c0a6397a7033)
+
 
 
 
