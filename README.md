@@ -36,7 +36,7 @@ chain.
  # Workspace creation
 ![Screenshot 2023-08-07 194510](https://github.com/blockbusters07/MediBridge/assets/141605147/f729dcfb-1378-41b4-a76d-fed27ee26062)
 
-
+- Click on `add project` and select the `truffle-config-js` file from the project folder
 -	Run `truffle migrate --reset` from the command line to deploy the smart contract to the blockchain.
 -	Download Metamask Chrome extension for the browser to help interaction between the application and the blockchain.
 
