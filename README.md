@@ -41,7 +41,12 @@ chain.
   # Local network creation
   ![1](https://github.com/blockbusters07/MediBridge/assets/141605147/0d114098-14f7-4f24-955f-e4d5e121fe3d)
 
-  
+  -  Click on add network 
+   - Select the network
+   - Enter the details of your ganache workspace such as RPC URL and chain id as 1337 and currency symbol as eth.
+
+
+
 -	Run `truffle migrate --reset` from the command line to deploy the smart contract to the blockchain.
 -	Download Metamask Chrome extension for the browser to help interaction between the application and the blockchain.
 
