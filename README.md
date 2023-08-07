@@ -12,14 +12,15 @@ The objective of this project is to develop a secure and transparent supply chai
 
 ## Our Solution 💡
 
--	Smart Contracts: Develop individual smart contracts for each entity in the supply chain (supplier, manufacturer, etc.). These contracts will facilitate secure transactions, ownership transfers, and product information storage on the blockchain.
-- Transparent Tracking: Utilize smart contracts to record product movements and key events throughout the supply chain, ensuring end-to-end traceability.
--	Product Verification: Implement a React-based front-end interface that enables customers to verify product authenticity by scanning unique identifiers and accessing immutable supply chain records.
--	Data Privacy: Ensure data privacy by encrypting sensitive information and employing role-based access control within the smart contracts.
--	Real-time Notifications: Enable stakeholders to receive real-time notifications and alerts for critical supply chain events.
--	Integration: Integrate the front-end and smart contracts using Web3.js to enable seamless communication between the user interface and the blockchain network.
--	Testing and Deployment: Conduct rigorous testing on Remix IDE, compile the smart contracts, and deploy them on a local blockchain using Ganache and Truffle.
--	User Experience: Focus on providing a user-friendly and intuitive interface to enhance stakeholders' experience in interacting with the supply chain management system.
+This project implements a block chain-based supply chain management system for the pharmaceutical industry, 
+employing Solidity smart contracts and React for the user interface. The development process will involve meticulous 
+manual testing on the Remix IDE to ensure the correctness and reliability of the smart contracts. After successful 
+testing, the contracts will be compiled and deployed on a local block chain network using Ganache and Truffle. To 
+provide a user-friendly experience, a React-based frontend will be built to enable seamless interaction with the block 
+chain network. The integration of the frontend and smart contracts will be achieved using Web3.js, allowing smooth 
+communication and data exchange between the two components. By implementing this robust solution, the 
+pharmaceutical industry can achieve real-time tracking, verification, and monitoring of products throughout the supply 
+chain.
 
 # System Architecure 💻
 
