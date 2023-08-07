@@ -34,7 +34,8 @@ chain.
 -	Install Ganache and create a workspace.
   
  # Workspace creation
-  ![Screenshot (434)](https://github.com/blockbusters07/MediBridge/assets/141605147/857c2219-ef2a-4154-89f3-df38a982e9c0)
+ ![Screenshot 2023-08-07 194510](https://github.com/blockbusters07/MediBridge/assets/141605147/85ec5cfe-4a66-428f-aa46-0561233c3221)
+
 
 -	Run `truffle migrate --reset` from the command line to deploy the smart contract to the blockchain.
 -	Download Metamask Chrome extension for the browser to help interaction between the application and the blockchain.
