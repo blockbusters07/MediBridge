@@ -6,17 +6,14 @@ The idea of this project is to develop a cutting-edge supply chain management sy
 
 # Demo 
 
+
 ## Goal 🚀
 
 The objective of this project is to develop a secure and transparent supply chain management system for the pharmaceutical industry using blockchain technology. The system should enable real-time tracking, traceability, and verification of pharmaceutical products at every stage of the supply chain, from supplier to customer, to ensure product authenticity and safety.
 
 ## Our Solution 💡
 
-This project implements a block chain-based supply chain management system for the pharmaceutical industry, 
-employing Solidity smart contracts and React for the user interface. The development process will involve meticulous 
-manual testing on the Remix IDE to ensure the correctness and reliability of the smart contracts. After successful 
-testing, the contracts will be compiled and deployed on a local block chain network using Ganache and Truffle. To 
-provide a user-friendly experience, a React-based frontend will be built to enable seamless interaction with the block 
+This project implements a block chain-based supply chain management system for the pharmaceutical industry, employing Solidity smart contracts and React for the user interface. The contracts will be compiled and deployed on a local block chain network using Ganache and Truffle. To provide a user-friendly experience, a React-based frontend will be built to enable seamless interaction with the block 
 chain network. The integration of the frontend and smart contracts will be achieved using Web3.js, allowing smooth 
 communication and data exchange between the two components. By implementing this robust solution, the 
 pharmaceutical industry can achieve real-time tracking, verification, and monitoring of products throughout the supply 
@@ -33,9 +30,10 @@ chain.
 ## Getting Started ⏰
 
 ## To deploy the Smart Contract
--	Install Ganache and create a workspace.
 - Install Truffle npm package globally by running `npm install -g truffle`.
--	In the `truffle-config.js` file update the from: address to an address from your Ganache workspace.
+-	Install Ganache and create a workspace.
+  # Workspace creation
+  
 -	Run `truffle migrate --reset` from the command line to deploy the smart contract to the blockchain.
 -	Download Metamask Chrome extension for the browser to help interaction between the application and the blockchain.
 
