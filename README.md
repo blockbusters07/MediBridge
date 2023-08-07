@@ -12,7 +12,7 @@
 The idea of this project is to develop a cutting-edge supply chain management system for the pharmaceutical industry using blockchain technology, Solidity, and React. The system aims to address critical challenges faced by the pharmaceutical supply chain, such as product traceability, counterfeit prevention, transparency, and efficiency. 
 
 # Demo 
-[[Click Here](https://drive.google.com/file/d/124SVjoCxHsWDHxkwEQQni8FYz9KNlKCv/view?usp=sharing)](https://github.com/blockbusters07/MediBridge/assets/141605147/7878fa1f-cd1a-4f8a-9607-a804147f8703)
+[[Click Here]([https://drive.google.com/file/d/124SVjoCxHsWDHxkwEQQni8FYz9KNlKCv/view?usp=sharing](https://drive.google.com/drive/folders/17lOCN8GLqgU1BuOLrUJjaKJDmv1xc14G?usp=drive_link))](https://github.com/blockbusters07/MediBridge/assets/141605147/7878fa1f-cd1a-4f8a-9607-a804147f8703)
 
 ## Goal 🚀
 
