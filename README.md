@@ -29,7 +29,7 @@ The objective of this project is to develop a secure and transparent supply chai
 
 
 
-## Getting Started
+## Getting Started ⏰
 
 ## To deploy the Smart Contract
 -	Install Ganache and create a workspace.
