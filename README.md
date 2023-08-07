@@ -12,8 +12,8 @@
 The idea of this project is to develop a cutting-edge supply chain management system for the pharmaceutical industry using blockchain technology, Solidity, and React. The system aims to address critical challenges faced by the pharmaceutical supply chain, such as product traceability, counterfeit prevention, transparency, and efficiency. 
 
 # Demo 
+[Click Here](https://drive.google.com/file/d/124SVjoCxHsWDHxkwEQQni8FYz9KNlKCv/view?usp=sharing)
 
-[![Demo](https://drive.google.com/file/d/124SVjoCxHsWDHxkwEQQni8FYz9KNlKCv/view?usp=sharing)]
 ## Goal 🚀
 
 The objective of this project is to develop a secure and transparent supply chain management system for the pharmaceutical industry using blockchain technology. The system should enable real-time tracking, traceability, and verification of pharmaceutical products at every stage of the supply chain, from supplier to customer, to ensure product authenticity and safety.
